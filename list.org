@@ -1,0 +1,6 @@
+#+TITLE: List
+
+* Actions
+- New Github account
+- Create local repo
+- push repo new account

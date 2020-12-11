@@ -1,5 +1,7 @@
 #+TITLE: Using Forge
 
+* Introduction
+Although I am reasonably confident issuing and dealing with pull requests using the git-hub web interface, I do all of my other git work using Magit. I would like to use forge to manage my pull requests etc.
 * Actions
 - New Github account
 - Create local repo

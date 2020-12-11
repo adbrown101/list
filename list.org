@@ -5,6 +5,6 @@
 - Create local repo
 - push repo new account
 - Fork to existing github account
-- Create Local Copy with branches
+- Create local copy with branches
 - Push back to pushremote
-- Create Pull Request
+- Create pull request
